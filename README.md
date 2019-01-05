@@ -1,3 +1,3 @@
 # practicaspython
 
-ALgunos ejercicios de Algoritmos resueltos en Python3
+Algunos ejercicios algorítmicos resueltos en Python3
